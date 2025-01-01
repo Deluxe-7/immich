@@ -1,5 +1,5 @@
 {
-  "about": "Värskenda",
+  "about": "Teave",
   "account": "Konto",
   "account_settings": "Konto seaded",
   "acknowledge": "Sain aru",
@@ -1129,6 +1129,7 @@
   "server_version": "Serveri versioon",
   "set": "Määra",
   "set_as_album_cover": "Sea albumi kaanepildiks",
+  "set_as_featured_photo": "Sea esiletõstetud fotoks",
   "set_as_profile_picture": "Sea profiilipildiks",
   "set_date_of_birth": "Määra sünnikuupäev",
   "set_profile_picture": "Sea profiilipilt",
